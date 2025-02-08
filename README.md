@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-• My name is Paith Philemon, and I like programming and STEM Education😄 
+• <p> My name is Paith Philemon, and I like programming and STEM Education😄 <br>
 •	💬 I can speak English, Arabic, Dinka, Python, and R (base + tidyverse) fluently 
 •	👩🏿‍💻 Pronouns: She/Her/Her’s
 •	👩🏿‍🏫 I identify as a programmer, academic, research software engineer, and data scientist/artist
